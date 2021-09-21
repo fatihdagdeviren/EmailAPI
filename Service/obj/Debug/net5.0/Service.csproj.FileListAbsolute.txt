@@ -1,0 +1,15 @@
+D:\OutSource\UniManagement\EmailAPI\Service\bin\Debug\net5.0\Service.deps.json
+D:\OutSource\UniManagement\EmailAPI\Service\bin\Debug\net5.0\Service.dll
+D:\OutSource\UniManagement\EmailAPI\Service\bin\Debug\net5.0\ref\Service.dll
+D:\OutSource\UniManagement\EmailAPI\Service\bin\Debug\net5.0\Service.pdb
+D:\OutSource\UniManagement\EmailAPI\Service\bin\Debug\net5.0\Core.dll
+D:\OutSource\UniManagement\EmailAPI\Service\bin\Debug\net5.0\Core.pdb
+D:\OutSource\UniManagement\EmailAPI\Service\obj\Debug\net5.0\Service.csprojAssemblyReference.cache
+D:\OutSource\UniManagement\EmailAPI\Service\obj\Debug\net5.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\OutSource\UniManagement\EmailAPI\Service\obj\Debug\net5.0\Service.AssemblyInfoInputs.cache
+D:\OutSource\UniManagement\EmailAPI\Service\obj\Debug\net5.0\Service.AssemblyInfo.cs
+D:\OutSource\UniManagement\EmailAPI\Service\obj\Debug\net5.0\Service.csproj.CoreCompileInputs.cache
+D:\OutSource\UniManagement\EmailAPI\Service\obj\Debug\net5.0\Service.csproj.CopyComplete
+D:\OutSource\UniManagement\EmailAPI\Service\obj\Debug\net5.0\Service.dll
+D:\OutSource\UniManagement\EmailAPI\Service\obj\Debug\net5.0\ref\Service.dll
+D:\OutSource\UniManagement\EmailAPI\Service\obj\Debug\net5.0\Service.pdb
